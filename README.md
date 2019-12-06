@@ -15,6 +15,13 @@ read below:
   # 2 - find the high compression vertical area
 
     vertical_hist = [sum(gray_env[i,:]) for i in range(img.shape[0])]
+    
+  ```
+  this is result of vertical_hist:
+  
+  <img scr="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot1.png?raw=true" >
+  
+  ```
     vertical_temp = gray_corrected_rotation.copy()
     vertical_limit = gray_env.shape[1] * 255 * vertical_percent *.01
     for i in range(len(vertical_hist)):
@@ -24,8 +31,11 @@ read below:
             vertical_temp[i,:] = 0
             
   ```
-it would give us a multimodal histogram,
-and in this way we can find the height of lines
+  this is result of mapping high density parts to be main lines:
+  
+  <img scr="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot2.png?raw=true" >
+  
+it would give us a multimodal histogram, gets us **height** of lines.
 
 then in each line, with same way we can find correct location of lines.
   ```
