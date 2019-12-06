@@ -1,18 +1,22 @@
 ## handwriting-Manuscript-_line_and_segment_detection_and_storage
 ### this project has 2 main parts: 1- line detection, 2- segment detection in manuscript
 
-#### why sould we do it?(Despite the presence of hOCR)
+#### why should we do it?(Despite the presence of hOCR)
 in Persian and Arabic texts hocr is not strong enough to detect lines and words(especially when vowels are written like مَخصوصاً)
 this is hocr result **line detection**:
+
 <img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/Comparison_codes/line_detection_hocr_or_x_y_projection/HW_hocr/1.jpg_rect_lines_with_hOCR.jpg?raw=true" width="50%" height="50%">
 
 this is our code result **line detection**:
+
 <img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/line_detectoin/1.jpg_find_line_by_semi_histogram_5_bound.jpg?raw=true" width="50%" height="50%">
 
 this is hocr result **segment detection**:
+
 <img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/Comparison_codes/segment_detectoin_hOCR_x_y_projection/rect_words_with_hOCR_EAST_on_denoised_img.jpg?raw=true" width="50%" height="50%">
 
 this is our code result **segment detection**:
+
 <img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/1.jpg_1_contoured.jpg?raw=true" width="50%" height="50%">
 
 #### describing code:
