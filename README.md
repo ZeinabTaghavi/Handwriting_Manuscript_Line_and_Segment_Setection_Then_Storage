@@ -83,24 +83,24 @@ at first, detect contours, in this time, may detect many noises,
 so whot to removethem?
 this is the histogram based on contours contourAre(lowest part is min contourAre and highest is biggest contourAre, in 10 bins):
 
-<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot3.png?raw=true" height="50%">
+<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot3.png?raw=true" height="50%" width="50%">
 
 the first bin has highest count of contoursArea, they are noises or dots, and must be ignored,
 then to cover all parts of segments(dots(like ب چ ج), vowels(like سَلام or بعضاً), and some seprate parts of one segments(like ک or گ )) detect first and last of width(w1, w1) then cover all heigh of line (h1 = 0 , h1 = height of line)
 then result is this image
 
-<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/1.jpg_1_contoured.jpg?raw=true" height="50%">
+<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/1.jpg_1_contoured.jpg?raw=true" height="50%" width="50%">
 
 and store them in a seprate file, 
 some of example segments are:
 
-<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/11_segment_y1_-14_y2_126_x1_639_x2_687_.jpg?raw=true" height="50%">
+<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/11_segment_y1_-14_y2_126_x1_639_x2_687_.jpg?raw=true" width="50%" height="50%">
 
-<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/14_segment_y1_-16_y2_125_x1_690_x2_729_.jpg?raw=true" height="50%">
+<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/14_segment_y1_-16_y2_125_x1_690_x2_729_.jpg?raw=true" width="50%" height="50%">
 
-<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/15_segment_y1_-13_y2_118_x1_311_x2_361_.jpg?raw=true" height="50%">
+<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/15_segment_y1_-13_y2_118_x1_311_x2_361_.jpg?raw=true" width="50%" height="50%">
 
-<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/17_segment_y1_-27_y2_143_x1_595_x2_634_.jpg?raw=true" height="50%">
+<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/17_segment_y1_-27_y2_143_x1_595_x2_634_.jpg?raw=true" width="50%" height="50%">
 
-<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/1_segment_y1_36_y2_117_x1_787_x2_817_.jpg?raw=true" height="50%">
+<img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/segment_detectoin/x_y_projection_contours/Segment_images_for_1.jpg/1_segment_y1_36_y2_117_x1_787_x2_817_.jpg?raw=true" width="50%" height="50%">
 
