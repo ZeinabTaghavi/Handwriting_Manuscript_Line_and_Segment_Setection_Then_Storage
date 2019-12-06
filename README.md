@@ -5,8 +5,7 @@
 
 source image:
 
-<img 
-src=https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/line_detectoin/1.jpg?raw=trueg" width="20%" height="20%">
+<img src="https://raw.githubusercontent.com/ZeinabTaghavi/Stock_Prediction_based_on_LSTM/master/Architecture_Img/Screen%20Shot%202019-12-05%20at%208.15.17%20PM.png" width="50%" height="50%">
 
 ##### 1- line detection:
 
