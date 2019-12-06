@@ -18,8 +18,8 @@ read below:
     
   ```
   this is result of vertical_hist:
-  
-  <img scr="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot1.png?raw=true" >
+
+  <img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot1.png?raw=true" width="100%" height="100%">  
   
   ```
     vertical_temp = gray_corrected_rotation.copy()
@@ -33,7 +33,7 @@ read below:
   ```
   this is result of mapping high density parts to be main lines:
   
-  <img scr="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot2.png?raw=true" >
+  <img src="https://github.com/ZeinabTaghavi/handwriting-Manuscript-_line_and_segment_detection_and_storage/blob/master/plots/plot2.png?raw=true" width="100%" height="100%">
   
 it would give us a multimodal histogram, gets us **height** of lines.
 
