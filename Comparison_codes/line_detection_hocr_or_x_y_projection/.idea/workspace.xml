@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0c78ef6-ddfb-4097-ad8f-6635b33de85d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../comparision_between_contour_MSER_hOCR_on_Time/comparision_between_contour_MSER_hOCR_on_Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/../comparision_between_contour_MSER_hOCR_on_Time/comparision_between_contour_MSER_hOCR_on_Time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_contour_MSER_hOCR_on_Time/comparision_img_MSER.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_contour_MSER_hOCR_on_Time/comparision_img_contour.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_contour_MSER_hOCR_on_Time/comparision_img_hOCR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_contour_MSER_hOCR_on_Time/image1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_1_rect_words_with_EAST.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_1_rect_words_with_hOCR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_2_rect_words_with_EAST.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_2_rect_words_with_hOCR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_3_rect_words_with_EAST.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_3_rect_words_with_hOCR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_4_rect_words_with_EAST.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_4_rect_words_with_hOCR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_5_rect_words_with_EAST.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/Examples/test_img_5_rect_words_with_hOCR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparision_between_hocr_and_EAST_on_word_finding_accuracy/hocr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../which_one_first_contour_or_MSER_on_time/image1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../which_one_first_contour_or_MSER_on_time/which_one_first_MSER_then_contour.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../which_one_first_contour_or_MSER_on_time/which_one_first_contour_or_MSER_on_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/../which_one_first_contour_or_MSER_on_time/which_one_first_contour_or_MSER_on_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../which_one_first_contour_or_MSER_on_time/which_one_first_contour_then_MSER.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rect_lines_with_hOCR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rect_lines_with_hOCR.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Hand_writting_hocr_or_semihistogram.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hand_writting_hocr_or_semihistogram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hand_writting_hocr_or_semihistogram" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6">
+        <option name="mySdkHome" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="rect_lines_with_hOCR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hand_writting_hocr_or_semihistogram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rect_lines_with_hOCR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rect_lines_with_hOCR" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0c78ef6-ddfb-4097-ad8f-6635b33de85d" name="Default Changelist" comment="" />
+      <created>1570019447749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570019447749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/detect_line_in_hand_writting_documets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="102" selection-start-line="102" selection-end-line="107" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.jpg_rect_lines_with_hOCR.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rect_lines_with_hOCR.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rect_lines_with_hOCR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
